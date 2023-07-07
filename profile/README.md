@@ -8,19 +8,7 @@ intSport is a prominent organization in the German League of Legends community, 
 The intSport-Dev-Team is a vital part of the intSport organization. We are responsible for creating and maintaining software projects, tools, and resources that support the overall growth and operation of intSport. Our team comprises skilled developers and enthusiasts who are passionate about League of Legends and technology.
 
 ## Repository Overview
-This GitHub organization serves as a central hub for our development efforts. Here, we collaborate on various projects, ranging from League of Legends tools and applications to website development, data analysis, and more. By leveraging the power of open-source collaboration, we aim to enhance the gaming experience for our players and contribute to the broader League of Legends community.
-
-## Contributing
-We welcome contributions from developers of all skill levels. If you're interested in joining our team or contributing to our projects, please follow these steps:
-
-1. Fork the repository you wish to contribute to.
-1. Create a new branch for your feature or bug fix.
-1. Develop and test your changes locally.
-1. Commit your changes with clear and concise commit messages.
-1. Push your branch to your forked repository.
-1. Open a pull request in the original repository, describing your changes in detail.
-
-Once you submit a pull request, our team will review your changes and provide feedback. We value collaboration and encourage discussions to ensure the highest quality of code and contributions.
+This GitHub organization serves as a central hub for our development efforts. Here, we collaborate on various projects, ranging from League of Legends tools and applications to website development, data analysis, and more. We aim to enhance the gaming experience for our players and contribute to the broader League of Legends community.
 
 ## Contact
 If you have any questions, suggestions, or need assistance, you can reach out to us through the following channels:
