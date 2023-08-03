@@ -13,17 +13,7 @@ This GitHub organization serves as a central hub for our development efforts. He
 ## Contact
 If you have any questions, suggestions, or need assistance, you can reach out to us through the following channels:
 
-- Discord: [intSport Discord Server](https://discord.gg/intsport) (contact @`heuerus` or @`learntochill`) (preferred)
-- Twitter: [@intSport1](https://twitter.com/intSport1)
+- Discord: [intSport Discord Server](https://discord.gg/intsport) (contact @`heuerus`) (preferred)
+- Twitter: [@Heuerus](https://twitter.com/Heuerus)
 
 Thank you for your interest in the intSport-Dev-Team. We look forward to working together and creating exciting projects to support the League of Legends community!
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
